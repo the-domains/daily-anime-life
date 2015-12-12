@@ -1,7 +1,7 @@
 name: Daily Anime Life
 favicon: null
 layout_spectrum: 0.3180261575616896
-typography_spectrum: 0.25013220869004726
+typography_spectrum: 0.24849
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5692650838755071
-  lightness: 0.15120218158699572
-  saturation: 0.0242891195230186
-  rhythmicContrast: 0.6509126648306847
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
